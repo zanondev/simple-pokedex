@@ -1,2 +1,7 @@
-# simple-pokedex
-Simple page includin a pokedex with some pokemons list. HMTL + CSS + JavaScript
+# Pokedex
+
+Here is a simple page including a pokedex with some pokemons list. It was done using HMTL + CSS + JavaScript.
+
+Hope you enjoy :)
+
+zanondev
