@@ -4,4 +4,8 @@ Here is a simple page including a pokedex with some pokemons list. It was done u
 
 Hope you enjoy :)
 
-zanondev
+Credits: @devemdobro
+
+| zanondev | 
+
+
